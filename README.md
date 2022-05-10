@@ -2,7 +2,7 @@
 
 ### steps to run the code:
 
-> one way
+> first way
 1) download the repository to your PC
 2) copy all the code in product.rb file and paste on https://replit.com/languages/ruby
 3) click on run button
